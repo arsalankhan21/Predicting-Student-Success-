@@ -35,7 +35,7 @@ The primary objective of this project is to **predict student outcomes**—wheth
 
 ### **Project Demonstration**
 
-![Project Demonstration](demo.gif)
+![Project Demonstration](demo1.gif)
 
 The GIF above highlights the project's workflow, including data preprocessing, EDA, and model evaluation.
 
